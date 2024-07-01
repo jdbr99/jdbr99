@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Bolaños</h1>
-<h3 align="center">A passionate student software developer from Mexico and coordinator at <a hrref="https://futurelab.mx">Future Lab 🚀</a> </h3>
+<h3 align="center">A passionate software engineer from Mexico and coordinator at <a hrref="https://futurelab.mx">Future Lab 🚀</a> </h3>
 
 <p align="left"> <a href="https://twitter.com/jdbr99" target="blank"><img src="https://img.shields.io/twitter/follow/jdbr99?logo=twitter&style=for-the-badge" alt="jdbr99" /></a> </p>
 
 - 🔭 I’m very interested in **scientific computing 💻🔭🧪 and STEAM in general.**
-
-- 🌱 I’m currently learning **Nestjs, Go, and fiddling with .NET core on Linux**
 
 - 📫 You can contact me through email at **[jd.bolanosrojas@ugto.mx](mailto:jd.bolanosrojas@ugto.mx)**
 
